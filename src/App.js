@@ -15,6 +15,7 @@ function App() {
         | Developed by{" "}
         <a target="_blank" href="https://www.gauravghai.dev/">
           Ansh Pal
+          //  code by Anand (Andy)
         </a>{" "}
         
         
